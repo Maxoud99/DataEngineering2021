@@ -1,0 +1,641 @@
+symbol,open,close,high,low,volume,changePercent,date,companyName,sector
+NFLX,267.35,269.58,272.2,264.03,8786284,0.0,2019-10-01,NetFlix Inc,Information
+NFLX,263.61,268.03,269.35,262.19,7773299,-0.0057,2019-10-02,NetFlix Inc,Information
+NFLX,267.78,268.15,268.843,257.01,9068810,0.0004,2019-10-03,NetFlix Inc,Information
+NFLX,268.2,272.79,275.4846,266.47,9992774,0.0173,2019-10-04,NetFlix Inc,Information
+NFLX,271.99,274.46,276.68,271.28,6796811,0.0061,2019-10-07,NetFlix Inc,Information
+NFLX,273.03,270.72,275.53,270.6427,6302269,-0.0136,2019-10-08,NetFlix Inc,Information
+NFLX,270.02,267.53,271.0,264.57,6843488,-0.0118,2019-10-09,NetFlix Inc,Information
+NFLX,265.97,280.48,280.53,265.0337,10961191,0.0484,2019-10-10,NetFlix Inc,Information
+NFLX,284.8,282.93,287.87,275.8947,8817301,0.0087,2019-10-11,NetFlix Inc,Information
+NFLX,283.93,285.53,286.93,282.0,5543120,0.0092,2019-10-14,NetFlix Inc,Information
+NFLX,283.82,284.25,285.87,279.4,7728161,-0.0045,2019-10-15,NetFlix Inc,Information
+NFLX,283.12,286.28,288.17,280.7431,18413335,0.0071,2019-10-16,NetFlix Inc,Information
+NFLX,304.49,293.35,308.75,288.3001,38462343,0.0247,2019-10-17,NetFlix Inc,Information
+NFLX,289.36,275.3,290.9,273.36,23449638,-0.0615,2019-10-18,NetFlix Inc,Information
+NFLX,272.89,278.05,279.9399,269.0,12633959,0.01,2019-10-21,NetFlix Inc,Information
+NFLX,271.159,266.69,275.41,265.8,11865593,-0.0409,2019-10-22,NetFlix Inc,Information
+NFLX,268.06,271.27,273.92,266.63,7154430,0.0172,2019-10-23,NetFlix Inc,Information
+NFLX,271.81,271.5,274.02,268.8,4911033,0.0008,2019-10-24,NetFlix Inc,Information
+NFLX,270.68,276.82,277.77,270.18,4747829,0.0196,2019-10-25,NetFlix Inc,Information
+NFLX,278.05,281.86,285.75,277.35,6248433,0.0182,2019-10-28,NetFlix Inc,Information
+NFLX,281.87,281.21,284.41,277.545,4356181,-0.0023,2019-10-29,NetFlix Inc,Information
+NFLX,284.34,291.45,293.49,283.0,9345562,0.0364,2019-10-30,NetFlix Inc,Information
+NFLX,291.0,287.41,291.45,284.78,5090021,-0.0139,2019-10-31,NetFlix Inc,Information
+NFLX,288.7,286.81,289.12,283.02,5594293,-0.0021,2019-11-01,NetFlix Inc,Information
+NFLX,288.0,292.86,295.39,287.16,5566213,0.0211,2019-11-04,NetFlix Inc,Information
+NFLX,289.99,288.03,291.19,286.31,4062370,-0.0165,2019-11-05,NetFlix Inc,Information
+NFLX,288.19,288.59,290.56,285.84,3438257,0.0019,2019-11-06,NetFlix Inc,Information
+NFLX,290.7,289.57,298.19,288.2679,5928471,0.0034,2019-11-07,NetFlix Inc,Information
+NFLX,288.73,291.57,293.99,287.505,4509588,0.0069,2019-11-08,NetFlix Inc,Information
+NFLX,289.16,294.18,296.36,288.5,3945885,0.009,2019-11-11,NetFlix Inc,Information
+NFLX,295.32,292.01,295.345,288.7,5774833,-0.0074,2019-11-12,NetFlix Inc,Information
+NFLX,291.03,283.11,293.41,281.14,9233066,-0.0305,2019-11-13,NetFlix Inc,Information
+NFLX,283.25,289.62,290.63,283.22,6539771,0.023,2019-11-14,NetFlix Inc,Information
+NFLX,290.59,295.03,295.8186,287.568,6337779,0.0187,2019-11-15,NetFlix Inc,Information
+NFLX,296.0,302.57,304.99,293.28,8621566,0.0256,2019-11-18,NetFlix Inc,Information
+NFLX,304.01,302.6,305.6699,298.5201,5919710,0.0001,2019-11-19,NetFlix Inc,Information
+NFLX,301.01,305.16,308.25,301.0,5115546,0.0085,2019-11-20,NetFlix Inc,Information
+NFLX,306.0,311.69,312.69,304.2622,7488373,0.0214,2019-11-21,NetFlix Inc,Information
+NFLX,309.1,310.48,311.4,304.41,5970056,-0.0039,2019-11-22,NetFlix Inc,Information
+NFLX,308.83,315.55,315.73,305.25,7878943,0.0163,2019-11-25,NetFlix Inc,Information
+NFLX,315.0,312.49,316.5,311.69,5328348,-0.0097,2019-11-26,NetFlix Inc,Information
+NFLX,313.93,315.93,316.82,312.75,4100975,0.011,2019-11-27,NetFlix Inc,Information
+NFLX,315.78,314.66,316.62,313.34,2411749,-0.004,2019-11-29,NetFlix Inc,Information
+NFLX,314.39,309.99,314.39,303.75,6223135,-0.0148,2019-12-02,NetFlix Inc,Information
+NFLX,302.22,306.16,307.36,301.88,5272447,-0.0124,2019-12-03,NetFlix Inc,Information
+NFLX,308.43,304.32,308.43,303.2727,3513551,-0.006,2019-12-04,NetFlix Inc,Information
+NFLX,305.27,302.86,306.48,298.81,4618867,-0.0048,2019-12-05,NetFlix Inc,Information
+NFLX,304.7,307.35,307.8495,302.6,4459684,0.0148,2019-12-06,NetFlix Inc,Information
+NFLX,307.35,302.5,311.49,302.44,5766006,-0.0158,2019-12-09,NetFlix Inc,Information
+NFLX,296.12,293.12,298.94,292.02,10481239,-0.031,2019-12-10,NetFlix Inc,Information
+NFLX,294.49,298.93,299.43,294.2,5607155,0.0198,2019-12-11,NetFlix Inc,Information
+NFLX,295.67,298.44,299.165,295.06,4771404,-0.0016,2019-12-12,NetFlix Inc,Information
+NFLX,298.5,298.5,301.8,297.25,3883069,0.0002,2019-12-13,NetFlix Inc,Information
+NFLX,300.85,304.21,305.71,298.63,4660166,0.0191,2019-12-16,NetFlix Inc,Information
+NFLX,307.36,315.48,316.8,306.6,10437127,0.037,2019-12-17,NetFlix Inc,Information
+NFLX,316.26,320.8,325.36,315.6,11210737,0.0169,2019-12-18,NetFlix Inc,Information
+NFLX,324.5,332.22,332.83,324.18,9833355,0.0356,2019-12-19,NetFlix Inc,Information
+NFLX,335.0,336.9,338.0,330.6,9923260,0.0141,2019-12-20,NetFlix Inc,Information
+NFLX,337.76,333.1,337.95,331.0201,5767937,-0.0113,2019-12-23,NetFlix Inc,Information
+NFLX,334.01,333.2,335.7,331.6,2019322,0.0003,2019-12-24,NetFlix Inc,Information
+NFLX,334.6,332.63,336.4623,332.01,3595854,-0.0017,2019-12-26,NetFlix Inc,Information
+NFLX,332.96,329.09,333.82,326.01,5037156,-0.0106,2019-12-27,NetFlix Inc,Information
+NFLX,329.08,323.31,329.185,322.86,4315267,-0.0176,2019-12-30,NetFlix Inc,Information
+NFLX,322.0,323.57,324.916,321.09,3714837,0.0008,2019-12-31,NetFlix Inc,Information
+SCHW,39.8,37.76,39.876,36.92,35786402,0.0,2019-10-01,Charles Schwab Corp.,Finance and Insurance
+SCHW,37.21,36.51,37.36,36.41,20983511,-0.0331,2019-10-02,Charles Schwab Corp.,Finance and Insurance
+SCHW,36.14,35.1,36.43,34.92,24606500,-0.0386,2019-10-03,Charles Schwab Corp.,Finance and Insurance
+SCHW,35.1,35.67,35.79,35.077,14484509,0.0162,2019-10-04,Charles Schwab Corp.,Finance and Insurance
+SCHW,35.87,35.45,36.145,35.44,10404789,-0.0062,2019-10-07,Charles Schwab Corp.,Finance and Insurance
+SCHW,35.0,35.23,35.415,34.58,13205959,-0.0062,2019-10-08,Charles Schwab Corp.,Finance and Insurance
+SCHW,35.59,35.67,36.0599,35.49,14299734,0.0125,2019-10-09,Charles Schwab Corp.,Finance and Insurance
+SCHW,36.2,36.14,36.58,35.99,13075047,0.0132,2019-10-10,Charles Schwab Corp.,Finance and Insurance
+SCHW,36.99,37.28,37.71,36.82,11354443,0.0315,2019-10-11,Charles Schwab Corp.,Finance and Insurance
+SCHW,37.03,37.72,37.83,37.03,9574076,0.0118,2019-10-14,Charles Schwab Corp.,Finance and Insurance
+SCHW,38.97,39.74,40.23,38.27,12858469,0.0536,2019-10-15,Charles Schwab Corp.,Finance and Insurance
+SCHW,38.68,39.02,39.57,38.67,13131328,-0.0181,2019-10-16,Charles Schwab Corp.,Finance and Insurance
+SCHW,39.56,39.45,39.725,39.2,7087623,0.011,2019-10-17,Charles Schwab Corp.,Finance and Insurance
+SCHW,39.43,39.94,40.05,39.43,7582813,0.0124,2019-10-18,Charles Schwab Corp.,Finance and Insurance
+SCHW,40.53,40.9,41.01,40.23,7694384,0.024,2019-10-21,Charles Schwab Corp.,Finance and Insurance
+SCHW,40.89,40.92,41.435,40.635,7267852,0.0005,2019-10-22,Charles Schwab Corp.,Finance and Insurance
+SCHW,40.77,41.37,41.535,40.65,6002279,0.011,2019-10-23,Charles Schwab Corp.,Finance and Insurance
+SCHW,41.42,40.99,41.48,40.58,6364753,-0.0092,2019-10-24,Charles Schwab Corp.,Finance and Insurance
+SCHW,40.75,40.98,41.26,40.61,3928346,-0.0002,2019-10-25,Charles Schwab Corp.,Finance and Insurance
+SCHW,41.18,41.48,41.77,41.05,5534541,0.0122,2019-10-28,Charles Schwab Corp.,Finance and Insurance
+SCHW,41.18,40.96,41.595,40.865,5708320,-0.0125,2019-10-29,Charles Schwab Corp.,Finance and Insurance
+SCHW,40.75,41.3,41.66,40.45,5284737,0.0083,2019-10-30,Charles Schwab Corp.,Finance and Insurance
+SCHW,41.05,40.71,41.3,40.01,7119772,-0.0143,2019-10-31,Charles Schwab Corp.,Finance and Insurance
+SCHW,41.21,41.78,42.02,41.19,6580669,0.0263,2019-11-01,Charles Schwab Corp.,Finance and Insurance
+SCHW,42.26,43.22,43.315,42.1,8446466,0.0345,2019-11-04,Charles Schwab Corp.,Finance and Insurance
+SCHW,43.25,43.42,43.695,42.67,8986192,0.0046,2019-11-05,Charles Schwab Corp.,Finance and Insurance
+SCHW,43.28,43.08,43.56,42.97,4888356,-0.0078,2019-11-06,Charles Schwab Corp.,Finance and Insurance
+SCHW,43.53,43.5,43.85,43.29,5835032,0.0097,2019-11-07,Charles Schwab Corp.,Finance and Insurance
+SCHW,43.47,43.54,43.7759,43.34,4274177,0.0009,2019-11-08,Charles Schwab Corp.,Finance and Insurance
+SCHW,43.11,43.23,43.54,43.06,3455156,-0.0071,2019-11-11,Charles Schwab Corp.,Finance and Insurance
+SCHW,43.34,43.48,43.9,43.12,3887109,0.0058,2019-11-12,Charles Schwab Corp.,Finance and Insurance
+SCHW,43.01,42.81,43.01,42.405,4581474,-0.0154,2019-11-13,Charles Schwab Corp.,Finance and Insurance
+SCHW,42.7,43.38,43.41,42.44,5357988,0.0133,2019-11-14,Charles Schwab Corp.,Finance and Insurance
+SCHW,43.78,44.35,44.44,43.63,7064370,0.0224,2019-11-15,Charles Schwab Corp.,Finance and Insurance
+SCHW,44.27,44.18,44.35,43.555,6983082,-0.0038,2019-11-18,Charles Schwab Corp.,Finance and Insurance
+SCHW,44.43,44.4,44.775,44.21,6093546,0.005,2019-11-19,Charles Schwab Corp.,Finance and Insurance
+SCHW,44.07,44.75,44.81,43.63,6188318,0.0079,2019-11-20,Charles Schwab Corp.,Finance and Insurance
+SCHW,50.02,48.03,50.97,47.5,42834376,0.0733,2019-11-21,Charles Schwab Corp.,Finance and Insurance
+SCHW,47.68,48.2,48.595,47.41,16855461,0.0035,2019-11-22,Charles Schwab Corp.,Finance and Insurance
+SCHW,47.7,49.31,49.49,47.39,37442480,0.023,2019-11-25,Charles Schwab Corp.,Finance and Insurance
+SCHW,49.22,49.24,49.79,48.66,23072489,-0.0014,2019-11-26,Charles Schwab Corp.,Finance and Insurance
+SCHW,49.59,49.84,50.05,49.19,11815034,0.0122,2019-11-27,Charles Schwab Corp.,Finance and Insurance
+SCHW,49.55,49.5,50.02,49.34,4867683,-0.0068,2019-11-29,Charles Schwab Corp.,Finance and Insurance
+SCHW,49.96,49.57,50.33,49.57,11377640,0.0014,2019-12-02,Charles Schwab Corp.,Finance and Insurance
+SCHW,49.02,48.66,49.1,48.32,11198495,-0.0184,2019-12-03,Charles Schwab Corp.,Finance and Insurance
+SCHW,48.64,49.03,49.39,48.64,6799030,0.0076,2019-12-04,Charles Schwab Corp.,Finance and Insurance
+SCHW,49.27,48.74,49.3,48.5,9766940,-0.0059,2019-12-05,Charles Schwab Corp.,Finance and Insurance
+SCHW,49.57,48.95,49.97,48.92,14627076,0.0043,2019-12-06,Charles Schwab Corp.,Finance and Insurance
+SCHW,48.9,48.95,49.05,48.63,7183684,0.0,2019-12-09,Charles Schwab Corp.,Finance and Insurance
+SCHW,48.81,49.19,49.24,48.67,8317851,0.0049,2019-12-10,Charles Schwab Corp.,Finance and Insurance
+SCHW,48.93,49.6,49.61,48.91,11033593,0.0083,2019-12-11,Charles Schwab Corp.,Finance and Insurance
+SCHW,49.84,51.07,51.645,49.66,16916747,0.0296,2019-12-12,Charles Schwab Corp.,Finance and Insurance
+SCHW,51.15,49.95,51.36,49.81,15217075,-0.0219,2019-12-13,Charles Schwab Corp.,Finance and Insurance
+SCHW,50.5,49.72,50.52,49.68,11036807,-0.0046,2019-12-16,Charles Schwab Corp.,Finance and Insurance
+SCHW,49.56,49.49,49.705,49.44,9239399,-0.0046,2019-12-17,Charles Schwab Corp.,Finance and Insurance
+SCHW,49.65,48.66,49.65,48.55,19822150,-0.0168,2019-12-18,Charles Schwab Corp.,Finance and Insurance
+SCHW,48.66,48.2,48.875,47.96,9618182,-0.0095,2019-12-19,Charles Schwab Corp.,Finance and Insurance
+SCHW,48.29,48.12,48.4,47.9,15327316,-0.0017,2019-12-20,Charles Schwab Corp.,Finance and Insurance
+SCHW,48.43,48.71,48.85,48.03,6931795,0.0123,2019-12-23,Charles Schwab Corp.,Finance and Insurance
+SCHW,48.81,48.71,48.81,48.34,1819045,0.0,2019-12-24,Charles Schwab Corp.,Finance and Insurance
+SCHW,48.76,48.57,48.92,48.51,3408607,-0.0029,2019-12-26,Charles Schwab Corp.,Finance and Insurance
+SCHW,48.55,48.34,48.7,48.265,3733589,-0.0047,2019-12-27,Charles Schwab Corp.,Finance and Insurance
+SCHW,48.5,47.82,48.63,47.74,5121412,-0.0108,2019-12-30,Charles Schwab Corp.,Finance and Insurance
+SCHW,47.83,47.56,47.94,47.385,8841377,-0.0054,2019-12-31,Charles Schwab Corp.,Finance and Insurance
+CERN,68.37,67.46,69.04,67.165,1947584,0.0,2019-10-01,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,67.16,66.54,67.19,65.72,2105801,-0.0136,2019-10-02,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,66.36,66.14,66.87,65.52,1856973,-0.006,2019-10-03,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,66.32,66.82,66.95,66.15,1105922,0.0103,2019-10-04,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,66.6,66.31,66.81,65.86,1266662,-0.0076,2019-10-07,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,65.69,65.1,66.24,65.02,2419601,-0.0182,2019-10-08,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,65.38,65.71,65.935,65.1,1425968,0.0094,2019-10-09,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,65.46,66.84,67.0,65.44,2880253,0.0172,2019-10-10,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,67.27,67.58,68.28,67.025,2042273,0.0111,2019-10-11,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,67.53,67.74,67.985,67.04,1556787,0.0024,2019-10-14,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,67.98,68.09,68.37,67.69,1270478,0.0052,2019-10-15,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,68.0,68.16,68.44,67.72,1801032,0.001,2019-10-16,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,68.22,68.11,68.32,67.422,1727884,-0.0007,2019-10-17,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,68.31,67.76,68.49,67.71,1619278,-0.0051,2019-10-18,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,67.92,68.16,68.4,67.73,1493575,0.0059,2019-10-21,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,67.94,67.47,68.375,67.38,1597676,-0.0101,2019-10-22,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,67.44,67.57,67.68,66.77,2191878,0.0015,2019-10-23,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,67.82,67.48,68.12,67.21,2470401,-0.0013,2019-10-24,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,67.5,66.43,68.49,65.61,2988980,-0.0156,2019-10-25,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,66.56,67.0,67.355,66.42,2646251,0.0086,2019-10-28,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,66.69,67.36,67.73,66.68,2518923,0.0054,2019-10-29,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,67.57,68.1,68.24,67.28,2259328,0.011,2019-10-30,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,67.86,67.12,68.13,66.68,2056505,-0.0144,2019-10-31,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,67.39,67.53,67.98,67.26,1980303,0.0061,2019-11-01,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,67.75,67.46,68.06,67.37,1802749,-0.001,2019-11-04,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,67.62,67.21,67.76,67.12,1825874,-0.0037,2019-11-05,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,67.3,66.97,67.72,66.84,2061046,-0.0036,2019-11-06,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,67.2,66.83,67.6943,66.76,1320411,-0.0021,2019-11-07,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,66.63,67.31,67.34,66.26,1536431,0.0072,2019-11-08,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,66.95,66.26,67.26,66.135,1527151,-0.0156,2019-11-11,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,66.54,67.01,67.28,66.26,2133963,0.0113,2019-11-12,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,66.84,66.86,67.355,66.475,1556686,-0.0022,2019-11-13,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,66.97,67.05,67.51,66.96,2320816,0.0028,2019-11-14,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,67.26,68.4,68.7804,67.09,6148715,0.0201,2019-11-15,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,68.44,67.61,68.865,67.41,3198211,-0.0115,2019-11-18,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,67.87,68.14,68.34,67.67,2942441,0.0078,2019-11-19,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,67.84,67.67,68.24,67.1,1808836,-0.0069,2019-11-20,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,67.73,68.47,68.74,67.45,1966692,0.0118,2019-11-21,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,69.0,69.44,69.92,68.73,1961914,0.0142,2019-11-22,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,69.64,70.68,70.84,69.59,2479110,0.0179,2019-11-25,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,71.09,71.84,71.88,70.6,2293943,0.0164,2019-11-26,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,70.13,72.11,72.15,69.73,1491135,0.0038,2019-11-27,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,71.99,71.59,72.14,71.15,1118953,-0.0072,2019-11-29,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,71.59,70.92,71.69,70.53,1271604,-0.0094,2019-12-02,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,70.49,71.07,71.13,70.19,1749857,0.0021,2019-12-03,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,71.18,70.6,71.2,70.46,1668530,-0.0066,2019-12-04,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,70.91,70.77,71.0,70.41,1299671,0.0024,2019-12-05,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,71.25,71.29,71.55,70.95,1237533,0.0073,2019-12-06,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,70.94,71.44,71.72,70.88,1818439,0.0021,2019-12-09,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,71.45,71.71,71.83,71.11,1292150,0.0038,2019-12-10,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,71.56,71.5,71.79,71.06,1583353,-0.0029,2019-12-11,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,71.63,71.82,72.07,71.26,1893894,0.0045,2019-12-12,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,71.9,72.23,72.67,71.3155,1618574,0.0057,2019-12-13,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,72.46,72.67,72.85,72.25,2376590,0.0061,2019-12-16,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,72.75,71.61,72.75,71.59,2441962,-0.0146,2019-12-17,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,71.74,72.16,72.39,71.5238,1932165,0.0077,2019-12-18,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,72.07,71.96,72.13,71.44,1266750,-0.0028,2019-12-19,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,72.02,73.26,73.3,71.58,4636441,0.0181,2019-12-20,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,73.34,73.44,74.1,73.225,1009482,0.0025,2019-12-23,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,73.41,73.29,73.42,73.04,281853,-0.002,2019-12-24,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,73.27,73.02,73.42,72.71,653639,-0.0037,2019-12-26,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,73.28,73.28,73.525,72.87,726980,0.0036,2019-12-27,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,73.28,73.11,73.44,72.95,1278343,-0.0023,2019-12-30,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CERN,72.93,73.39,73.51,72.6,1110830,0.0038,2019-12-31,Cerner Corp.,"Professional, Scientific, and Technical Services"
+CNP,30.18,29.89,30.32,29.86,4112093,0.0,2019-10-01,Centerpoint Energy Inc.,Utilities
+CNP,29.86,29.12,29.87,29.095,5012878,-0.0258,2019-10-02,Centerpoint Energy Inc.,Utilities
+CNP,29.15,28.9,29.1558,28.61,10083629,-0.0076,2019-10-03,Centerpoint Energy Inc.,Utilities
+CNP,29.0,29.25,29.28,28.63,4391653,0.0121,2019-10-04,Centerpoint Energy Inc.,Utilities
+CNP,29.15,28.83,29.2,28.82,2935747,-0.0144,2019-10-07,Centerpoint Energy Inc.,Utilities
+CNP,28.99,28.18,28.99,28.18,4264823,-0.0225,2019-10-08,Centerpoint Energy Inc.,Utilities
+CNP,28.21,28.14,28.29,27.88,4522130,-0.0014,2019-10-09,Centerpoint Energy Inc.,Utilities
+CNP,28.12,28.16,28.43,28.041,5666502,0.0007,2019-10-10,Centerpoint Energy Inc.,Utilities
+CNP,28.15,28.27,28.46,28.08,3435234,0.0039,2019-10-11,Centerpoint Energy Inc.,Utilities
+CNP,28.36,27.89,28.41,27.88,2913014,-0.0134,2019-10-14,Centerpoint Energy Inc.,Utilities
+CNP,27.9,28.18,28.2,27.89,5203806,0.0104,2019-10-15,Centerpoint Energy Inc.,Utilities
+CNP,28.17,28.62,28.65,28.1,6329411,0.0156,2019-10-16,Centerpoint Energy Inc.,Utilities
+CNP,28.62,28.71,28.81,28.425,3738384,0.0031,2019-10-17,Centerpoint Energy Inc.,Utilities
+CNP,28.64,28.64,28.8,28.425,3528618,-0.0024,2019-10-18,Centerpoint Energy Inc.,Utilities
+CNP,28.59,28.74,28.79,28.54,3144671,0.0035,2019-10-21,Centerpoint Energy Inc.,Utilities
+CNP,28.93,29.29,29.33,28.8,5322375,0.0191,2019-10-22,Centerpoint Energy Inc.,Utilities
+CNP,29.35,29.6,29.61,29.22,4787630,0.0106,2019-10-23,Centerpoint Energy Inc.,Utilities
+CNP,29.59,30.16,30.23,29.56,6277334,0.0189,2019-10-24,Centerpoint Energy Inc.,Utilities
+CNP,30.18,29.54,30.23,29.485,4688105,-0.0206,2019-10-25,Centerpoint Energy Inc.,Utilities
+CNP,29.37,29.14,29.51,29.13,3259709,-0.0135,2019-10-28,Centerpoint Energy Inc.,Utilities
+CNP,29.14,29.04,29.23,28.88,4098152,-0.0034,2019-10-29,Centerpoint Energy Inc.,Utilities
+CNP,29.03,29.08,29.18,28.85,2671487,0.0014,2019-10-30,Centerpoint Energy Inc.,Utilities
+CNP,29.15,29.07,29.24,28.92,2499173,-0.0003,2019-10-31,Centerpoint Energy Inc.,Utilities
+CNP,29.07,29.02,29.16,28.94,2703224,-0.0017,2019-11-01,Centerpoint Energy Inc.,Utilities
+CNP,28.96,28.91,29.28,28.795,3922730,-0.0038,2019-11-04,Centerpoint Energy Inc.,Utilities
+CNP,28.89,28.74,29.07,28.69,4278275,-0.0059,2019-11-05,Centerpoint Energy Inc.,Utilities
+CNP,28.76,28.77,29.115,28.76,4258142,0.001,2019-11-06,Centerpoint Energy Inc.,Utilities
+CNP,28.74,29.0,29.105,28.17,5569906,0.008,2019-11-07,Centerpoint Energy Inc.,Utilities
+CNP,28.85,28.78,29.07,28.62,5574395,-0.0076,2019-11-08,Centerpoint Energy Inc.,Utilities
+CNP,28.71,27.7,28.75,27.53,6165641,-0.0375,2019-11-11,Centerpoint Energy Inc.,Utilities
+CNP,27.72,27.94,27.98,27.57,3945777,0.0087,2019-11-12,Centerpoint Energy Inc.,Utilities
+CNP,28.0,28.09,28.19,27.83,3766070,0.0054,2019-11-13,Centerpoint Energy Inc.,Utilities
+CNP,28.1,26.69,28.28,26.59,14522350,-0.0498,2019-11-14,Centerpoint Energy Inc.,Utilities
+CNP,25.68,25.48,26.89,25.089,18773405,-0.0453,2019-11-15,Centerpoint Energy Inc.,Utilities
+CNP,25.62,25.16,25.65,25.09,7679460,-0.0126,2019-11-18,Centerpoint Energy Inc.,Utilities
+CNP,25.14,25.34,25.36,24.8,8525596,0.0072,2019-11-19,Centerpoint Energy Inc.,Utilities
+CNP,25.02,24.45,25.1,24.37,7032916,-0.0351,2019-11-20,Centerpoint Energy Inc.,Utilities
+CNP,24.29,24.54,24.58,24.25,9361413,0.0037,2019-11-21,Centerpoint Energy Inc.,Utilities
+CNP,24.5,24.75,25.02,24.32,6194931,0.0086,2019-11-22,Centerpoint Energy Inc.,Utilities
+CNP,24.75,24.8,24.91,24.625,4678117,0.002,2019-11-25,Centerpoint Energy Inc.,Utilities
+CNP,24.72,24.49,24.78,24.35,6156711,-0.0125,2019-11-26,Centerpoint Energy Inc.,Utilities
+CNP,24.41,24.67,24.67,24.3,3089166,0.0073,2019-11-27,Centerpoint Energy Inc.,Utilities
+CNP,24.68,24.56,24.85,24.52,2116055,-0.0045,2019-11-29,Centerpoint Energy Inc.,Utilities
+CNP,24.54,24.39,24.7111,24.36,3394992,-0.0069,2019-12-02,Centerpoint Energy Inc.,Utilities
+CNP,24.36,24.4,24.575,24.27,4168163,0.0004,2019-12-03,Centerpoint Energy Inc.,Utilities
+CNP,24.28,24.72,24.82,24.28,4275937,0.0131,2019-12-04,Centerpoint Energy Inc.,Utilities
+CNP,24.67,24.79,24.85,24.62,3638056,0.0028,2019-12-05,Centerpoint Energy Inc.,Utilities
+CNP,24.75,25.02,25.13,24.7,4806550,0.0093,2019-12-06,Centerpoint Energy Inc.,Utilities
+CNP,25.05,25.04,25.16,24.82,3790045,0.0008,2019-12-09,Centerpoint Energy Inc.,Utilities
+CNP,25.06,24.96,25.16,24.86,4253343,-0.0032,2019-12-10,Centerpoint Energy Inc.,Utilities
+CNP,24.9,25.11,25.21,24.89,4811613,0.006,2019-12-11,Centerpoint Energy Inc.,Utilities
+CNP,25.06,24.82,25.33,24.665,6812020,-0.0115,2019-12-12,Centerpoint Energy Inc.,Utilities
+CNP,24.77,25.94,26.01,24.77,13385377,0.0451,2019-12-13,Centerpoint Energy Inc.,Utilities
+CNP,25.92,26.35,26.37,25.92,7094586,0.0158,2019-12-16,Centerpoint Energy Inc.,Utilities
+CNP,26.3,26.41,26.83,26.2588,10974220,0.0023,2019-12-17,Centerpoint Energy Inc.,Utilities
+CNP,26.47,26.85,26.95,26.45,6808625,0.0167,2019-12-18,Centerpoint Energy Inc.,Utilities
+CNP,26.74,26.78,26.99,26.59,8020514,-0.0026,2019-12-19,Centerpoint Energy Inc.,Utilities
+CNP,27.13,26.73,27.25,26.61,15120427,-0.0019,2019-12-20,Centerpoint Energy Inc.,Utilities
+CNP,26.78,26.73,26.97,26.455,4651687,0.0,2019-12-23,Centerpoint Energy Inc.,Utilities
+CNP,26.78,26.76,26.95,26.74,1963732,0.0011,2019-12-24,Centerpoint Energy Inc.,Utilities
+CNP,26.83,26.91,27.03,26.81,1994281,0.0056,2019-12-26,Centerpoint Energy Inc.,Utilities
+CNP,26.9,26.91,26.985,26.8,3099692,0.0,2019-12-27,Centerpoint Energy Inc.,Utilities
+CNP,26.83,26.91,26.94,26.62,3557284,0.0,2019-12-30,Centerpoint Energy Inc.,Utilities
+CNP,26.91,27.27,27.28,26.875,3443195,0.0134,2019-12-31,Centerpoint Energy Inc.,Utilities
+CDAY,49.54,49.33,50.23,49.17,630129,0.0,2019-10-01,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,49.03,47.63,49.03,47.01,1473987,-0.0345,2019-10-02,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,47.35,47.7,47.795,46.215,919177,0.0015,2019-10-03,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,48.17,48.3,48.77,47.74,683657,0.0126,2019-10-04,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,48.17,49.16,49.57,48.17,820539,0.0178,2019-10-07,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,48.77,48.26,49.495,47.83,904592,-0.0183,2019-10-08,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,48.76,49.08,49.77,48.5,302939,0.017,2019-10-09,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,48.88,48.83,49.52,48.48,359393,-0.0051,2019-10-10,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,49.59,49.42,49.95,49.19,574662,0.0121,2019-10-11,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,49.19,49.17,49.38,48.8,496695,-0.0051,2019-10-14,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,49.24,49.75,50.23,49.08,354408,0.0118,2019-10-15,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,49.48,46.2,49.48,46.16,1136908,-0.0714,2019-10-16,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,46.38,45.63,46.72,45.34,1176103,-0.0123,2019-10-17,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,45.59,44.74,45.71,43.25,1728309,-0.0195,2019-10-18,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,45.07,45.38,45.53,44.8,1041476,0.0143,2019-10-21,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,45.66,42.67,45.96,42.57,1531938,-0.0597,2019-10-22,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,42.5,43.14,43.665,41.81,1515773,0.011,2019-10-23,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,43.54,45.12,45.22,43.3,1432886,0.0459,2019-10-24,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,46.12,46.19,46.43,45.15,819484,0.0237,2019-10-25,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,46.61,46.2,46.65,45.72,653742,0.0002,2019-10-28,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,46.1,45.02,46.5,45.0,509226,-0.0255,2019-10-29,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,45.36,45.43,45.67,44.74,666437,0.0091,2019-10-30,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,48.09,48.25,48.83,46.73,4780104,0.0621,2019-10-31,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,48.25,49.51,49.77,47.73,3203949,0.0261,2019-11-01,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,49.7,49.78,50.21,48.91,17699103,0.0055,2019-11-04,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,49.58,50.0,50.18,48.97,2963534,0.0044,2019-11-05,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,49.82,50.32,50.34,49.5,1313115,0.0064,2019-11-06,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,50.58,50.03,51.57,49.8,2556624,-0.0058,2019-11-07,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,52.46,55.14,55.62,51.96,2289152,0.1021,2019-11-08,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,54.43,54.0,55.0,53.69,1208002,-0.0207,2019-11-11,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,53.83,55.12,55.16,53.66,1136218,0.0207,2019-11-12,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,53.02,53.65,54.23,52.92,5546091,-0.0267,2019-11-13,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,53.52,55.08,55.46,53.22,4509788,0.0267,2019-11-14,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,55.39,56.54,56.64,54.75,1529649,0.0265,2019-11-15,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,56.32,57.69,58.2,55.68,1908987,0.0203,2019-11-18,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,58.18,58.66,59.0,57.78,1123287,0.0168,2019-11-19,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,58.4,58.93,59.76,58.17,1285833,0.0046,2019-11-20,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,58.76,57.57,59.19,57.47,1048744,-0.0231,2019-11-21,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,57.81,58.37,58.66,57.39,1107863,0.0139,2019-11-22,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,58.86,59.64,59.73,58.585,745479,0.0218,2019-11-25,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,59.9,60.05,60.26,59.33,664325,0.0069,2019-11-26,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,60.31,60.53,60.69,59.88,390101,0.008,2019-11-27,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,60.22,60.36,61.15,60.01,251640,-0.0028,2019-11-29,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,60.39,60.37,60.6,59.06,1067111,0.0002,2019-12-02,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,59.9,61.57,61.73,59.53,1188517,0.0199,2019-12-03,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,62.04,61.59,62.04,61.07,640277,0.0003,2019-12-04,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,61.82,61.94,62.22,61.32,839496,0.0057,2019-12-05,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,62.21,62.47,62.83,61.86,616681,0.0086,2019-12-06,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,62.35,61.75,62.94,61.67,488570,-0.0115,2019-12-09,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,61.47,61.98,62.33,61.47,423773,0.0037,2019-12-10,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,62.16,62.04,62.27,61.375,369270,0.001,2019-12-11,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,61.82,61.57,62.6,61.31,597964,-0.0076,2019-12-12,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,61.47,62.51,62.51,61.32,819844,0.0153,2019-12-13,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,62.84,63.2,63.81,62.34,655234,0.011,2019-12-16,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,63.05,63.17,63.6278,62.51,518300,-0.0005,2019-12-17,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,63.38,64.4,65.06,63.35,672028,0.0195,2019-12-18,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,64.33,65.03,65.29,64.05,566649,0.0098,2019-12-19,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,65.59,65.72,65.85,64.81,1574129,0.0106,2019-12-20,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,65.85,66.47,66.69,65.74,389575,0.0114,2019-12-23,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,66.62,66.73,67.26,65.79,339310,0.0039,2019-12-24,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,66.85,67.83,68.01,66.82,717133,0.0165,2019-12-26,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,68.07,67.85,68.3535,67.0,487955,0.0003,2019-12-27,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,68.01,68.01,68.27,66.44,431442,0.0024,2019-12-30,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+CDAY,67.56,67.88,68.63,67.25,889297,-0.0019,2019-12-31,Ceridian HCM Holding Inc.,"Professional, Scientific, and Technical Services"
+FB,179.15,175.81,179.84,174.88,17261556,0.0,2019-10-01,Meta Platforms Inc,Information
+FB,174.84,174.6,176.53,173.09,16374148,-0.0069,2019-10-02,Meta Platforms Inc,Information
+FB,175.57,179.38,179.84,173.63,16789319,0.0274,2019-10-03,Meta Platforms Inc,Information
+FB,179.55,180.45,180.98,178.1,10476395,0.006,2019-10-04,Meta Platforms Inc,Information
+FB,180.0,179.68,181.18,178.09,9359793,-0.0043,2019-10-07,Meta Platforms Inc,Information
+FB,178.26,177.75,180.37,177.72,10084896,-0.0107,2019-10-08,Meta Platforms Inc,Information
+FB,179.16,179.85,180.72,177.94,7648874,0.0118,2019-10-09,Meta Platforms Inc,Information
+FB,180.32,180.03,181.61,179.17,8980978,0.001,2019-10-10,Meta Platforms Inc,Information
+FB,182.15,184.19,186.49,182.14,14998754,0.0231,2019-10-11,Meta Platforms Inc,Information
+FB,184.2,183.28,184.62,182.5735,7203665,-0.0049,2019-10-14,Meta Platforms Inc,Information
+FB,183.8,188.89,190.38,183.66,15143119,0.0306,2019-10-15,Meta Platforms Inc,Information
+FB,188.32,189.55,189.7,186.9002,10560343,0.0035,2019-10-16,Meta Platforms Inc,Information
+FB,190.3,190.39,190.84,188.765,9761548,0.0044,2019-10-17,Meta Platforms Inc,Information
+FB,190.23,185.85,191.49,183.9239,16882862,-0.0238,2019-10-18,Meta Platforms Inc,Information
+FB,187.04,189.76,189.91,186.75,8580744,0.021,2019-10-21,Meta Platforms Inc,Information
+FB,190.0,182.34,190.65,181.5,19854192,-0.0391,2019-10-22,Meta Platforms Inc,Information
+FB,182.01,186.15,186.38,182.0,12370819,0.0209,2019-10-23,Meta Platforms Inc,Information
+FB,184.62,186.38,186.73,182.8,11505406,0.0012,2019-10-24,Meta Platforms Inc,Information
+FB,185.83,187.89,189.0,185.0876,8061240,0.0081,2019-10-25,Meta Platforms Inc,Information
+FB,187.2,189.4,189.53,185.08,13657866,0.008,2019-10-28,Meta Platforms Inc,Information
+FB,191.69,189.31,192.53,188.47,13574874,-0.0005,2019-10-29,Meta Platforms Inc,Information
+FB,189.56,188.25,190.45,185.98,28734559,-0.0056,2019-10-30,Meta Platforms Inc,Information
+FB,196.7,191.65,198.09,188.25,42286529,0.0181,2019-10-31,Meta Platforms Inc,Information
+FB,192.85,193.62,194.11,189.91,21711829,0.0103,2019-11-01,Meta Platforms Inc,Information
+FB,194.55,194.72,197.3672,193.8119,16371292,0.0057,2019-11-04,Meta Platforms Inc,Information
+FB,195.37,194.32,195.75,193.6,9941954,-0.0021,2019-11-05,Meta Platforms Inc,Information
+FB,194.03,191.55,194.37,191.35,10973019,-0.0143,2019-11-06,Meta Platforms Inc,Information
+FB,191.91,190.42,193.44,189.47,13472998,-0.0059,2019-11-07,Meta Platforms Inc,Information
+FB,190.0,190.84,192.34,189.7,10764784,0.0022,2019-11-08,Meta Platforms Inc,Information
+FB,189.93,189.61,190.08,188.54,8637768,-0.0064,2019-11-11,Meta Platforms Inc,Information
+FB,190.0,194.47,195.06,189.74,17615454,0.0256,2019-11-12,Meta Platforms Inc,Information
+FB,194.7,193.19,195.7,192.74,11009800,-0.0066,2019-11-13,Meta Platforms Inc,Information
+FB,192.93,193.15,194.03,191.45,9059897,-0.0002,2019-11-14,Meta Platforms Inc,Information
+FB,194.26,195.1,195.3,193.38,11530232,0.0101,2019-11-15,Meta Platforms Inc,Information
+FB,194.56,197.4,198.63,193.05,16176107,0.0118,2019-11-18,Meta Platforms Inc,Information
+FB,197.4,199.32,200.0,196.86,19070291,0.0097,2019-11-19,Meta Platforms Inc,Information
+FB,198.58,197.51,199.59,195.43,12370240,-0.0091,2019-11-20,Meta Platforms Inc,Information
+FB,197.42,197.93,199.09,196.86,12130985,0.0021,2019-11-21,Meta Platforms Inc,Information
+FB,198.38,198.82,199.3,197.62,9959817,0.0045,2019-11-22,Meta Platforms Inc,Information
+FB,199.515,199.79,200.97,199.25,15286442,0.0049,2019-11-25,Meta Platforms Inc,Information
+FB,200.0,198.97,200.15,198.0387,11748664,-0.0041,2019-11-26,Meta Platforms Inc,Information
+FB,199.9,202.0,203.14,199.42,12760568,0.0152,2019-11-27,Meta Platforms Inc,Information
+FB,201.6,201.64,203.8,201.21,7985231,-0.0018,2019-11-29,Meta Platforms Inc,Information
+FB,202.13,199.7,202.18,198.05,11542020,-0.0096,2019-12-02,Meta Platforms Inc,Information
+FB,197.6,198.82,198.93,195.08,13014170,-0.0044,2019-12-03,Meta Platforms Inc,Information
+FB,200.0,198.71,200.0288,198.05,8459939,-0.0006,2019-12-04,Meta Platforms Inc,Information
+FB,199.86,199.36,201.29,198.2126,9755350,0.0033,2019-12-05,Meta Platforms Inc,Information
+FB,200.5,201.05,201.57,200.06,12279525,0.0085,2019-12-06,Meta Platforms Inc,Information
+FB,200.65,201.34,203.1418,200.21,12013218,0.0014,2019-12-09,Meta Platforms Inc,Information
+FB,201.66,200.87,202.05,200.15,9485568,-0.0023,2019-12-10,Meta Platforms Inc,Information
+FB,200.28,202.26,202.63,200.28,8041827,0.0069,2019-12-11,Meta Platforms Inc,Information
+FB,202.35,196.75,203.66,194.1,23766986,-0.0272,2019-12-12,Meta Platforms Inc,Information
+FB,196.4,194.11,196.8,193.17,18806020,-0.0134,2019-12-13,Meta Platforms Inc,Information
+FB,195.27,197.92,199.12,194.81,14922733,0.0196,2019-12-16,Meta Platforms Inc,Information
+FB,198.84,198.39,199.0,196.13,10177605,0.0024,2019-12-17,Meta Platforms Inc,Information
+FB,200.09,202.5,204.3,200.09,23284746,0.0207,2019-12-18,Meta Platforms Inc,Information
+FB,202.78,206.06,206.3,202.51,16808184,0.0176,2019-12-19,Meta Platforms Inc,Information
+FB,207.48,206.3,207.71,203.43,27315226,0.0012,2019-12-20,Meta Platforms Inc,Information
+FB,206.7,206.18,208.59,205.68,13353194,-0.0006,2019-12-23,Meta Platforms Inc,Information
+FB,206.3,205.12,206.79,205.0,6046273,-0.0051,2019-12-24,Meta Platforms Inc,Information
+FB,205.5665,207.79,207.82,205.31,9368273,0.013,2019-12-26,Meta Platforms Inc,Information
+FB,208.6697,208.1,208.93,206.5875,10287634,0.0015,2019-12-27,Meta Platforms Inc,Information
+FB,207.86,204.41,207.9,203.9001,10534441,-0.0177,2019-12-30,Meta Platforms Inc,Information
+FB,203.995,205.25,205.56,203.6001,8962756,0.0041,2019-12-31,Meta Platforms Inc,Information
+ADI,114.81,109.78,116.1937,109.56,2902230,0.0,2019-10-01,Analog Devices Inc.,Manufacturing
+ADI,109.13,108.97,109.81,108.11,1658503,-0.0074,2019-10-02,Analog Devices Inc.,Manufacturing
+ADI,108.87,110.87,111.3,108.0,1880658,0.0174,2019-10-03,Analog Devices Inc.,Manufacturing
+ADI,111.85,113.03,113.22,111.19,1437647,0.0195,2019-10-04,Analog Devices Inc.,Manufacturing
+ADI,112.92,110.84,113.29,110.78,1764150,-0.0194,2019-10-07,Analog Devices Inc.,Manufacturing
+ADI,109.99,106.13,110.36,106.09,3240867,-0.0425,2019-10-08,Analog Devices Inc.,Manufacturing
+ADI,107.77,108.07,108.87,106.78,1907631,0.0183,2019-10-09,Analog Devices Inc.,Manufacturing
+ADI,107.8,108.44,109.77,107.52,1902677,0.0034,2019-10-10,Analog Devices Inc.,Manufacturing
+ADI,109.73,111.22,112.72,109.73,2626741,0.0256,2019-10-11,Analog Devices Inc.,Manufacturing
+ADI,110.57,110.34,111.0,109.99,1761884,-0.0079,2019-10-14,Analog Devices Inc.,Manufacturing
+ADI,110.75,113.29,113.41,110.5,2629701,0.0267,2019-10-15,Analog Devices Inc.,Manufacturing
+ADI,112.71,110.59,113.25,110.39,1963966,-0.0238,2019-10-16,Analog Devices Inc.,Manufacturing
+ADI,111.77,110.0,112.26,109.63,1494105,-0.0053,2019-10-17,Analog Devices Inc.,Manufacturing
+ADI,110.17,109.48,110.43,108.42,1444772,-0.0047,2019-10-18,Analog Devices Inc.,Manufacturing
+ADI,110.19,111.11,111.48,109.985,1388174,0.0149,2019-10-21,Analog Devices Inc.,Manufacturing
+ADI,111.25,110.88,112.24,110.73,1664161,-0.0021,2019-10-22,Analog Devices Inc.,Manufacturing
+ADI,107.5,105.57,107.75,104.58,4596793,-0.0479,2019-10-23,Analog Devices Inc.,Manufacturing
+ADI,106.37,105.32,106.675,104.92,3053496,-0.0024,2019-10-24,Analog Devices Inc.,Manufacturing
+ADI,105.55,106.83,107.03,105.12,1867697,0.0143,2019-10-25,Analog Devices Inc.,Manufacturing
+ADI,107.7,108.83,109.078,107.42,2084956,0.0187,2019-10-28,Analog Devices Inc.,Manufacturing
+ADI,109.24,108.06,110.12,107.84,2766559,-0.0071,2019-10-29,Analog Devices Inc.,Manufacturing
+ADI,110.51,108.25,110.99,107.77,2543748,0.0018,2019-10-30,Analog Devices Inc.,Manufacturing
+ADI,107.7,106.63,107.7,104.95,3847445,-0.015,2019-10-31,Analog Devices Inc.,Manufacturing
+ADI,107.62,109.37,109.92,107.56,1991769,0.0257,2019-11-01,Analog Devices Inc.,Manufacturing
+ADI,111.07,111.39,112.26,110.35,1696867,0.0185,2019-11-04,Analog Devices Inc.,Manufacturing
+ADI,111.47,113.45,114.43,111.335,3043690,0.0185,2019-11-05,Analog Devices Inc.,Manufacturing
+ADI,113.0,112.03,113.22,110.65,1676838,-0.0125,2019-11-06,Analog Devices Inc.,Manufacturing
+ADI,113.77,112.29,113.82,111.53,1139209,0.0023,2019-11-07,Analog Devices Inc.,Manufacturing
+ADI,111.98,113.02,113.04,111.1663,1123931,0.0065,2019-11-08,Analog Devices Inc.,Manufacturing
+ADI,112.55,112.55,112.74,111.42,1263530,-0.0042,2019-11-11,Analog Devices Inc.,Manufacturing
+ADI,113.03,113.26,114.01,112.74,2277128,0.0063,2019-11-12,Analog Devices Inc.,Manufacturing
+ADI,112.26,114.17,114.385,111.91,1729378,0.008,2019-11-13,Analog Devices Inc.,Manufacturing
+ADI,113.7,113.32,113.7,112.54,1102241,-0.0074,2019-11-14,Analog Devices Inc.,Manufacturing
+ADI,114.7,113.4,114.95,112.59,1767396,0.0007,2019-11-15,Analog Devices Inc.,Manufacturing
+ADI,113.03,111.97,113.4,111.7,1845257,-0.0126,2019-11-18,Analog Devices Inc.,Manufacturing
+ADI,112.73,111.71,113.03,111.57,1876162,-0.0023,2019-11-19,Analog Devices Inc.,Manufacturing
+ADI,110.8,108.58,110.83,108.22,2988293,-0.028,2019-11-20,Analog Devices Inc.,Manufacturing
+ADI,109.06,108.78,109.235,107.85,2903049,0.0018,2019-11-21,Analog Devices Inc.,Manufacturing
+ADI,111.08,110.65,111.08,109.14,1783561,0.0172,2019-11-22,Analog Devices Inc.,Manufacturing
+ADI,111.62,112.93,113.47,111.32,3031509,0.0206,2019-11-25,Analog Devices Inc.,Manufacturing
+ADI,108.62,114.89,115.45,107.51,7432903,0.0174,2019-11-26,Analog Devices Inc.,Manufacturing
+ADI,116.11,113.7,116.31,113.03,3948863,-0.0104,2019-11-27,Analog Devices Inc.,Manufacturing
+ADI,113.03,112.95,114.39,112.44,1036675,-0.0066,2019-11-29,Analog Devices Inc.,Manufacturing
+ADI,113.06,111.26,113.36,110.93,1715849,-0.015,2019-12-02,Analog Devices Inc.,Manufacturing
+ADI,109.54,110.25,110.43,108.67,2157134,-0.0091,2019-12-03,Analog Devices Inc.,Manufacturing
+ADI,111.8,114.39,114.51,111.8,2890447,0.0376,2019-12-04,Analog Devices Inc.,Manufacturing
+ADI,113.95,113.43,115.23,113.16,2443405,-0.0084,2019-12-05,Analog Devices Inc.,Manufacturing
+ADI,114.74,115.89,116.1,114.4,2150292,0.0217,2019-12-06,Analog Devices Inc.,Manufacturing
+ADI,115.78,114.62,115.78,114.5101,1553263,-0.011,2019-12-09,Analog Devices Inc.,Manufacturing
+ADI,114.58,114.41,115.44,114.03,2815854,-0.0018,2019-12-10,Analog Devices Inc.,Manufacturing
+ADI,114.95,115.85,116.49,114.79,2203209,0.0126,2019-12-11,Analog Devices Inc.,Manufacturing
+ADI,115.87,117.81,118.66,115.6124,2424054,0.0169,2019-12-12,Analog Devices Inc.,Manufacturing
+ADI,117.58,118.77,119.47,116.9,1644295,0.0081,2019-12-13,Analog Devices Inc.,Manufacturing
+ADI,119.52,118.86,120.5,118.49,2062535,0.0008,2019-12-16,Analog Devices Inc.,Manufacturing
+ADI,118.91,118.82,119.41,118.07,1467449,-0.0003,2019-12-17,Analog Devices Inc.,Manufacturing
+ADI,118.89,117.0,119.53,116.86,2708958,-0.0153,2019-12-18,Analog Devices Inc.,Manufacturing
+ADI,117.38,118.7,118.82,117.13,1713995,0.0145,2019-12-19,Analog Devices Inc.,Manufacturing
+ADI,120.18,119.82,120.22,117.9,4449011,0.0094,2019-12-20,Analog Devices Inc.,Manufacturing
+ADI,120.0,119.17,120.545,119.03,1565751,-0.0054,2019-12-23,Analog Devices Inc.,Manufacturing
+ADI,119.26,119.72,119.88,119.11,487824,0.0046,2019-12-24,Analog Devices Inc.,Manufacturing
+ADI,119.67,119.73,120.13,119.26,912635,0.0001,2019-12-26,Analog Devices Inc.,Manufacturing
+ADI,119.72,119.45,120.0,118.99,1360930,-0.0023,2019-12-27,Analog Devices Inc.,Manufacturing
+ADI,119.28,118.86,119.45,117.94,1107348,-0.0049,2019-12-30,Analog Devices Inc.,Manufacturing
+ADI,118.82,118.84,119.1407,118.135,963456,-0.0002,2019-12-31,Analog Devices Inc.,Manufacturing
+BKR,23.38,22.67,23.39,22.66,6917323,0.0,2019-10-01,Baker Hughes Co,Manufacturing
+BKR,22.65,22.14,22.65,22.07,5016424,-0.0234,2019-10-02,Baker Hughes Co,Manufacturing
+BKR,22.03,22.69,22.7,21.78,5902846,0.0248,2019-10-03,Baker Hughes Co,Manufacturing
+BKR,22.69,22.47,22.8,22.29,4581755,-0.0097,2019-10-04,Baker Hughes Co,Manufacturing
+BKR,22.49,21.9,22.553,21.89,3911465,-0.0254,2019-10-07,Baker Hughes Co,Manufacturing
+BKR,21.69,21.38,21.82,21.37,3187926,-0.0237,2019-10-08,Baker Hughes Co,Manufacturing
+BKR,21.63,21.61,21.669,21.27,2519000,0.0108,2019-10-09,Baker Hughes Co,Manufacturing
+BKR,21.73,21.8,21.96,21.68,3245840,0.0088,2019-10-10,Baker Hughes Co,Manufacturing
+BKR,22.12,22.23,22.49,21.945,5358817,0.0197,2019-10-11,Baker Hughes Co,Manufacturing
+BKR,21.92,22.32,22.39,21.8,3674201,0.004,2019-10-14,Baker Hughes Co,Manufacturing
+BKR,22.32,22.3,22.69,22.2,4684908,-0.0009,2019-10-15,Baker Hughes Co,Manufacturing
+BKR,22.31,21.99,22.42,21.955,3549011,-0.0139,2019-10-16,Baker Hughes Co,Manufacturing
+BKR,22.17,22.08,22.555,22.04,4261406,0.0041,2019-10-17,Baker Hughes Co,Manufacturing
+BKR,22.19,21.77,22.58,21.75,2826912,-0.014,2019-10-18,Baker Hughes Co,Manufacturing
+BKR,21.76,22.12,22.325,21.54,7276078,0.0161,2019-10-21,Baker Hughes Co,Manufacturing
+BKR,22.28,22.63,22.86,22.1,2929519,0.0231,2019-10-22,Baker Hughes Co,Manufacturing
+BKR,22.5,23.12,23.2,22.3,4109538,0.0217,2019-10-23,Baker Hughes Co,Manufacturing
+BKR,23.05,22.33,23.065,21.95,3845327,-0.0342,2019-10-24,Baker Hughes Co,Manufacturing
+BKR,22.3,22.38,22.61,22.24,4691918,0.0022,2019-10-25,Baker Hughes Co,Manufacturing
+BKR,22.55,21.99,22.69,21.83,4371610,-0.0174,2019-10-28,Baker Hughes Co,Manufacturing
+BKR,21.82,21.9,22.49,21.59,8288668,-0.0041,2019-10-29,Baker Hughes Co,Manufacturing
+BKR,22.53,21.62,23.12,21.54,6093911,-0.0128,2019-10-30,Baker Hughes Co,Manufacturing
+BKR,21.47,21.4,21.52,20.92,5869188,-0.0102,2019-10-31,Baker Hughes Co,Manufacturing
+BKR,21.5,21.9,21.97,21.35,4457662,0.0234,2019-11-01,Baker Hughes Co,Manufacturing
+BKR,22.08,22.35,22.5458,21.96,4923629,0.0205,2019-11-04,Baker Hughes Co,Manufacturing
+BKR,22.24,22.63,22.79,22.1,4481247,0.0125,2019-11-05,Baker Hughes Co,Manufacturing
+BKR,22.57,21.95,22.68,21.85,3541335,-0.03,2019-11-06,Baker Hughes Co,Manufacturing
+BKR,22.01,22.08,22.34,21.91,3946215,0.0059,2019-11-07,Baker Hughes Co,Manufacturing
+BKR,21.87,22.25,22.27,21.59,3007215,0.0077,2019-11-08,Baker Hughes Co,Manufacturing
+BKR,21.9,22.21,22.32,21.51,2488244,-0.0018,2019-11-11,Baker Hughes Co,Manufacturing
+BKR,22.39,22.09,22.45,21.9087,3221809,-0.0054,2019-11-12,Baker Hughes Co,Manufacturing
+BKR,21.96,21.64,22.03,21.57,2236542,-0.0204,2019-11-13,Baker Hughes Co,Manufacturing
+BKR,21.64,21.89,22.01,21.54,2587210,0.0116,2019-11-14,Baker Hughes Co,Manufacturing
+BKR,22.13,22.69,22.85,22.09,4731017,0.0365,2019-11-15,Baker Hughes Co,Manufacturing
+BKR,22.58,22.17,22.58,21.82,11292789,-0.0229,2019-11-18,Baker Hughes Co,Manufacturing
+BKR,22.15,22.01,22.34,21.82,3623046,-0.0072,2019-11-19,Baker Hughes Co,Manufacturing
+BKR,22.26,22.42,22.79,22.06,3386565,0.0186,2019-11-20,Baker Hughes Co,Manufacturing
+BKR,22.58,22.59,22.701,22.3,3067815,0.0076,2019-11-21,Baker Hughes Co,Manufacturing
+BKR,22.59,22.42,23.05,22.39,3481081,-0.0075,2019-11-22,Baker Hughes Co,Manufacturing
+BKR,22.3,22.54,22.75,22.08,3678493,0.0054,2019-11-25,Baker Hughes Co,Manufacturing
+BKR,22.56,22.61,22.71,22.39,7738670,0.0031,2019-11-26,Baker Hughes Co,Manufacturing
+BKR,22.52,22.55,22.67,22.16,3115537,-0.0027,2019-11-27,Baker Hughes Co,Manufacturing
+BKR,22.32,22.42,22.665,22.2272,1993600,-0.0058,2019-11-29,Baker Hughes Co,Manufacturing
+BKR,22.41,22.14,22.55,21.87,3491814,-0.0125,2019-12-02,Baker Hughes Co,Manufacturing
+BKR,21.82,21.32,21.93,21.31,5288155,-0.037,2019-12-03,Baker Hughes Co,Manufacturing
+BKR,21.52,22.17,22.17,21.43,4406584,0.0399,2019-12-04,Baker Hughes Co,Manufacturing
+BKR,22.32,22.14,22.44,22.06,2855644,-0.0014,2019-12-05,Baker Hughes Co,Manufacturing
+BKR,22.14,22.21,22.54,22.02,5339741,0.0032,2019-12-06,Baker Hughes Co,Manufacturing
+BKR,22.13,22.25,22.69,22.0546,5026294,0.0018,2019-12-09,Baker Hughes Co,Manufacturing
+BKR,22.85,22.34,22.93,22.18,8650698,0.004,2019-12-10,Baker Hughes Co,Manufacturing
+BKR,22.38,22.68,22.72,22.38,7881980,0.0152,2019-12-11,Baker Hughes Co,Manufacturing
+BKR,22.89,23.76,23.89,22.7,7256407,0.0476,2019-12-12,Baker Hughes Co,Manufacturing
+BKR,23.99,23.64,24.0499,23.59,4890668,-0.0051,2019-12-13,Baker Hughes Co,Manufacturing
+BKR,23.88,23.95,24.25,23.73,5240348,0.0131,2019-12-16,Baker Hughes Co,Manufacturing
+BKR,23.94,24.37,24.38,23.87,4806631,0.0175,2019-12-17,Baker Hughes Co,Manufacturing
+BKR,24.38,24.73,24.9,24.25,5406835,0.0148,2019-12-18,Baker Hughes Co,Manufacturing
+BKR,24.61,24.97,25.045,24.61,4404877,0.0097,2019-12-19,Baker Hughes Co,Manufacturing
+BKR,25.07,25.09,25.28,24.88,10048096,0.0048,2019-12-20,Baker Hughes Co,Manufacturing
+BKR,25.02,25.51,25.6,24.99,3453694,0.0167,2019-12-23,Baker Hughes Co,Manufacturing
+BKR,25.42,25.48,25.74,25.41,958438,-0.0012,2019-12-24,Baker Hughes Co,Manufacturing
+BKR,25.71,25.56,25.72,25.42,2146880,0.0031,2019-12-26,Baker Hughes Co,Manufacturing
+BKR,25.66,25.49,25.805,25.354,2555934,-0.0027,2019-12-27,Baker Hughes Co,Manufacturing
+BKR,25.57,25.63,25.9,25.49,2828499,0.0055,2019-12-30,Baker Hughes Co,Manufacturing
+BKR,25.4,25.63,25.64,25.09,3114145,0.0,2019-12-31,Baker Hughes Co,Manufacturing
+CVX,119.27,116.01,119.46,115.88,7204647,0.0,2019-10-01,Chevron Corp.,Manufacturing
+CVX,115.06,112.29,115.11,111.62,9943708,-0.0321,2019-10-02,Chevron Corp.,Manufacturing
+CVX,112.06,113.15,113.1917,110.4217,5671810,0.0077,2019-10-03,Chevron Corp.,Manufacturing
+CVX,113.6,113.85,114.0,112.55,4883879,0.0062,2019-10-04,Chevron Corp.,Manufacturing
+CVX,113.96,113.26,114.7471,113.23,4774379,-0.0052,2019-10-07,Chevron Corp.,Manufacturing
+CVX,112.11,111.71,112.7524,111.61,6067852,-0.0137,2019-10-08,Chevron Corp.,Manufacturing
+CVX,112.59,113.14,114.51,112.3,4700468,0.0128,2019-10-09,Chevron Corp.,Manufacturing
+CVX,113.53,114.59,114.79,113.3,3920110,0.0128,2019-10-10,Chevron Corp.,Manufacturing
+CVX,115.69,116.15,117.03,115.36,5181691,0.0136,2019-10-11,Chevron Corp.,Manufacturing
+CVX,115.58,116.18,116.3933,115.45,2590041,0.0003,2019-10-14,Chevron Corp.,Manufacturing
+CVX,115.85,116.31,117.62,115.8,3744171,0.0011,2019-10-15,Chevron Corp.,Manufacturing
+CVX,116.23,115.11,116.6605,115.08,3651748,-0.0103,2019-10-16,Chevron Corp.,Manufacturing
+CVX,115.61,115.35,116.06,114.92,3837822,0.0021,2019-10-17,Chevron Corp.,Manufacturing
+CVX,115.14,114.74,115.58,114.74,5679872,-0.0053,2019-10-18,Chevron Corp.,Manufacturing
+CVX,115.55,116.61,116.75,115.55,4153612,0.0163,2019-10-21,Chevron Corp.,Manufacturing
+CVX,116.63,117.8,118.56,116.49,4130577,0.0102,2019-10-22,Chevron Corp.,Manufacturing
+CVX,117.4,117.98,118.02,116.78,4159941,0.0015,2019-10-23,Chevron Corp.,Manufacturing
+CVX,118.47,117.58,118.81,117.31,3893194,-0.0034,2019-10-24,Chevron Corp.,Manufacturing
+CVX,117.77,118.67,118.85,117.69,3369139,0.0093,2019-10-25,Chevron Corp.,Manufacturing
+CVX,119.08,118.48,119.51,117.64,5076294,-0.0016,2019-10-28,Chevron Corp.,Manufacturing
+CVX,117.97,118.13,119.07,117.69,4548403,-0.003,2019-10-29,Chevron Corp.,Manufacturing
+CVX,118.18,116.36,118.18,115.52,4690892,-0.015,2019-10-30,Chevron Corp.,Manufacturing
+CVX,115.86,116.14,116.36,115.32,7177681,-0.0019,2019-10-31,Chevron Corp.,Manufacturing
+CVX,115.49,116.21,116.6228,114.02,7684675,0.0006,2019-11-01,Chevron Corp.,Manufacturing
+CVX,117.23,121.57,121.87,117.02,10348755,0.0461,2019-11-04,Chevron Corp.,Manufacturing
+CVX,121.23,121.94,122.45,120.72,6971221,0.003,2019-11-05,Chevron Corp.,Manufacturing
+CVX,121.94,119.9,122.14,119.8,6104748,-0.0167,2019-11-06,Chevron Corp.,Manufacturing
+CVX,121.13,121.89,122.0,120.3235,5440991,0.0166,2019-11-07,Chevron Corp.,Manufacturing
+CVX,120.97,120.93,121.2,120.16,4249822,-0.0079,2019-11-08,Chevron Corp.,Manufacturing
+CVX,120.2,120.81,121.39,120.01,3870833,-0.001,2019-11-11,Chevron Corp.,Manufacturing
+CVX,121.29,120.96,122.05,120.4801,4503638,0.0012,2019-11-12,Chevron Corp.,Manufacturing
+CVX,120.46,122.28,122.41,120.37,5297573,0.0109,2019-11-13,Chevron Corp.,Manufacturing
+CVX,121.85,121.96,122.94,121.4,4886604,-0.0026,2019-11-14,Chevron Corp.,Manufacturing
+CVX,121.22,120.64,121.39,120.11,5589793,-0.0108,2019-11-15,Chevron Corp.,Manufacturing
+CVX,119.82,118.55,120.0,118.14,4885671,-0.0173,2019-11-18,Chevron Corp.,Manufacturing
+CVX,118.5,116.45,118.8,116.08,8727280,-0.0177,2019-11-19,Chevron Corp.,Manufacturing
+CVX,116.41,117.34,118.08,116.12,5903205,0.0076,2019-11-20,Chevron Corp.,Manufacturing
+CVX,117.61,118.77,118.95,117.2,5810888,0.0122,2019-11-21,Chevron Corp.,Manufacturing
+CVX,119.06,118.63,119.7,118.6,4786806,-0.0012,2019-11-22,Chevron Corp.,Manufacturing
+CVX,118.43,118.38,119.22,117.98,7389988,-0.0021,2019-11-25,Chevron Corp.,Manufacturing
+CVX,118.34,117.79,118.56,117.2,10061284,-0.005,2019-11-26,Chevron Corp.,Manufacturing
+CVX,117.99,118.07,118.605,117.62,4107005,0.0024,2019-11-27,Chevron Corp.,Manufacturing
+CVX,117.28,117.13,117.82,116.88,3271027,-0.008,2019-11-29,Chevron Corp.,Manufacturing
+CVX,117.98,116.8,118.07,116.72,5196809,-0.0028,2019-12-02,Chevron Corp.,Manufacturing
+CVX,116.2,115.89,116.7,115.7,7298088,-0.0078,2019-12-03,Chevron Corp.,Manufacturing
+CVX,116.64,116.94,117.3,116.43,5706769,0.0091,2019-12-04,Chevron Corp.,Manufacturing
+CVX,117.62,116.33,117.74,116.19,5517564,-0.0052,2019-12-05,Chevron Corp.,Manufacturing
+CVX,117.09,118.01,119.29,116.98,6735556,0.0144,2019-12-06,Chevron Corp.,Manufacturing
+CVX,116.52,117.3,117.89,116.44,4831761,-0.006,2019-12-09,Chevron Corp.,Manufacturing
+CVX,118.03,117.89,118.09,117.05,4889002,0.005,2019-12-10,Chevron Corp.,Manufacturing
+CVX,117.09,116.23,117.66,116.13,7039707,-0.0141,2019-12-11,Chevron Corp.,Manufacturing
+CVX,116.59,118.81,118.89,116.59,6465087,0.0222,2019-12-12,Chevron Corp.,Manufacturing
+CVX,119.05,117.96,119.54,117.9,4863504,-0.0072,2019-12-13,Chevron Corp.,Manufacturing
+CVX,118.86,119.36,119.47,118.61,5619466,0.0119,2019-12-16,Chevron Corp.,Manufacturing
+CVX,119.59,118.6,119.89,118.33,6755700,-0.0064,2019-12-17,Chevron Corp.,Manufacturing
+CVX,118.68,118.55,119.64,118.52,7498375,-0.0004,2019-12-18,Chevron Corp.,Manufacturing
+CVX,118.57,118.13,118.74,117.86,6220500,-0.0035,2019-12-19,Chevron Corp.,Manufacturing
+CVX,119.4,119.68,119.94,118.09,12171143,0.0131,2019-12-20,Chevron Corp.,Manufacturing
+CVX,119.31,120.33,120.4,119.15,5875420,0.0054,2019-12-23,Chevron Corp.,Manufacturing
+CVX,120.43,120.34,120.78,120.09,1640120,0.0001,2019-12-24,Chevron Corp.,Manufacturing
+CVX,120.67,120.6,121.42,120.34,3648636,0.0022,2019-12-26,Chevron Corp.,Manufacturing
+CVX,120.89,120.3,121.29,120.24,4138405,-0.0025,2019-12-27,Chevron Corp.,Manufacturing
+CVX,120.44,119.85,121.34,119.8132,4580992,-0.0037,2019-12-30,Chevron Corp.,Manufacturing
+CVX,119.5,120.51,120.63,119.25,4215863,0.0055,2019-12-31,Chevron Corp.,Manufacturing
+DVN,24.2,23.14,24.54,23.1,4563482,0.0,2019-10-01,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,22.94,22.03,23.09,22.0,7617252,-0.048,2019-10-02,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,21.82,22.67,22.695,21.42,7272543,0.0291,2019-10-03,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,22.39,22.6,22.82,22.14,3653917,-0.0031,2019-10-04,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,22.46,21.89,22.6,21.55,7246554,-0.0314,2019-10-07,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,21.54,20.91,21.72,20.91,8544082,-0.0448,2019-10-08,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,21.32,21.07,21.4,20.585,7685438,0.0077,2019-10-09,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,21.05,20.83,21.35,20.57,6086827,-0.0114,2019-10-10,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,21.18,21.26,21.72,21.045,8732061,0.0206,2019-10-11,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,20.82,20.95,21.0,20.09,9676149,-0.0146,2019-10-14,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,20.84,20.97,21.25,20.45,6541791,0.001,2019-10-15,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,20.94,20.65,21.38,20.59,6559655,-0.0153,2019-10-16,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,20.69,20.38,20.725,20.165,5717983,-0.0131,2019-10-17,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,20.33,19.8,20.61,19.8,5892979,-0.0285,2019-10-18,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,19.78,20.24,20.39,19.77,5064434,0.0222,2019-10-21,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,20.34,20.67,21.18,20.0943,6522043,0.0212,2019-10-22,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,20.64,21.3,21.527,20.32,10329138,0.0305,2019-10-23,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,21.48,21.46,21.53,21.03,8339751,0.0075,2019-10-24,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,21.43,21.47,21.63,21.06,9456280,0.0005,2019-10-25,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,21.66,21.05,21.87,21.045,8878477,-0.0196,2019-10-28,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,20.81,21.4,21.54,20.71,8305083,0.0166,2019-10-29,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,21.51,20.25,21.59,20.185,6303313,-0.0537,2019-10-30,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,20.16,20.28,20.43,19.72,5711190,0.0015,2019-10-31,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,20.57,21.17,21.205,20.36,6601306,0.0439,2019-11-01,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,21.61,22.57,22.65,21.51,12374336,0.0661,2019-11-04,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,22.8,22.98,23.57,22.72,11001180,0.0182,2019-11-05,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,24.0,22.08,24.0,22.03,10316389,-0.0392,2019-11-06,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,22.43,22.68,22.87,22.38,8545871,0.0272,2019-11-07,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,22.31,22.91,23.0,22.06,5696837,0.0101,2019-11-08,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,22.45,22.53,22.76,22.29,5730277,-0.0166,2019-11-11,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,22.74,22.37,23.07,22.16,7759888,-0.0071,2019-11-12,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,22.21,21.62,22.34,21.535,6365415,-0.0335,2019-11-13,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,21.7,21.84,22.11,21.64,5818338,0.0102,2019-11-14,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,22.04,22.56,22.85,22.01,6862238,0.033,2019-11-15,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,22.25,21.96,22.32,21.6,7661971,-0.0266,2019-11-18,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,21.84,21.49,21.89,21.21,6166551,-0.0214,2019-11-19,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,21.4,21.95,22.535,21.29,6380899,0.0214,2019-11-20,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,22.11,22.77,22.89,21.9099,7108016,0.0374,2019-11-21,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,22.87,22.77,23.035,22.5125,4324347,0.0,2019-11-22,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,22.73,22.74,22.89,22.49,7193243,-0.0013,2019-11-25,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,22.7,22.26,22.81,22.15,6717619,-0.0211,2019-11-26,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,22.35,22.51,22.59,22.1,3221593,0.0112,2019-11-27,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,22.25,21.89,22.25,21.71,2392052,-0.0275,2019-11-29,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,22.15,21.83,22.37,21.79,4867539,-0.0027,2019-12-02,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,21.5,21.41,21.77,21.09,4501014,-0.0192,2019-12-03,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,21.76,22.39,22.59,21.74,6375537,0.0458,2019-12-04,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,22.67,22.07,22.74,21.87,5175046,-0.0143,2019-12-05,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,22.17,23.14,23.25,22.17,5310234,0.0485,2019-12-06,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,22.91,23.15,23.3,22.87,4561286,0.0004,2019-12-09,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,23.49,23.42,23.89,23.165,5089099,0.0117,2019-12-10,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,23.33,23.42,23.58,23.12,3583927,0.0,2019-12-11,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,23.39,23.99,24.115,23.32,5832992,0.0243,2019-12-12,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,24.05,23.48,24.21,23.43,4573657,-0.0213,2019-12-13,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,23.78,23.85,24.205,23.63,11448524,0.0158,2019-12-16,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,23.9,24.17,24.34,23.86,5364017,0.0134,2019-12-17,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,24.65,24.7,25.02,24.31,9021709,0.0219,2019-12-18,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,24.74,25.11,25.23,24.709,7107424,0.0166,2019-12-19,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,25.3,25.47,25.55,25.06,14639338,0.0143,2019-12-20,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,25.54,26.23,26.31,25.44,6294122,0.0298,2019-12-23,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,26.35,26.54,26.685,26.28,2779996,0.0118,2019-12-24,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,26.7,26.36,26.91,26.32,3175581,-0.0068,2019-12-26,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,26.5,25.73,26.565,25.71,3950917,-0.0239,2019-12-27,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,25.76,25.53,25.9701,25.495,3549698,-0.0078,2019-12-30,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
+DVN,25.28,25.97,26.08,25.15,3392020,0.0172,2019-12-31,Devon Energy Corp.,"Mining, Quarrying, and Oil and Gas Extraction"
